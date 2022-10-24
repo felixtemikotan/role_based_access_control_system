@@ -5,6 +5,8 @@ This project was created with [express-generator-typescript](https://github.com/
 
 ## Available Scripts
 
+node modules, dotenv not ignored delibrately
+Just clone, set up your database and enjoy
 ### `npm run dev`
 
 Run the server in development mode.
